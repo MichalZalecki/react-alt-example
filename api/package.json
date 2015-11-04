@@ -1,0 +1,16 @@
+{
+  "name": "react-alt-example-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michal Zalecki <michal@michalzalecki.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "boom": "^2.10.0",
+    "hapi": "^11.0.2"
+  }
+}
